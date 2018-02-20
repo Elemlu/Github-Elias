@@ -1,0 +1,136 @@
+
+.print_area {
+	width: 900px;
+	margin: 1em;
+	padding-left: 10%;
+
+}
+/* header style */
+
+p {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+	 background-color: #ffffff;
+}
+
+header {
+	background-color: #0DB5FF;
+	padding: 2px;
+	text-align: center; 
+}
+
+
+img {
+    float: right;
+    width: 100px;
+    height: 140px;
+    margin: 20px;
+    border: 2px solid;
+
+}
+/* header style */
+.container {
+	float: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+.elias {
+	float: left;
+	text-transform: uppercase;
+	font-size: 30px;
+	text-shadow: 10px 10px 20px;
+}
+
+/* main stayle */
+.referens {
+	float: left;
+	padding: 15px;
+	margin-left: 10vmin;
+	font-size: 15px;
+}
+
+.compinfo {
+    float: right;
+    padding: 40px;
+	margin-left: 20vmin;
+	font-size: 20px;
+}
+
+#compinfo > p {
+    margin: 10px;
+}
+
+.name {
+	float: right;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	
+}
+
+th {
+	height: 50%;
+}
+
+th {
+	text-align: right;
+}
+
+ th , td  {
+	 padding: 15px ;
+	 text-align: left ;
+ }
+
+
+  th {
+     background-color :aqua;
+     color: black;
+ }
+
+  tr :nth-child(none) {
+	 background-color: aqua;
+ }
+
+   aside h1 {
+	  border: none; border-width: 0 0 1px; margin: 0 0 1em; 
+	  text-align: center;
+	}
+
+    aside h1 , h4 {
+	      border-color: #999; border-bottom-style: solid;
+	    text-align: center;
+	 }
+
+	 .meta {
+		padding-right: 170px;
+	 }
+
+	 .bottom {
+		 clear: both;
+		border: none;
+		border-collapse: unset;
+		padding: 10px 0px 5px 0px;
+		margin-top: -5px;
+		 
+		margin-left: 0%;
+	} 
+
+	.data {
+		clear: both;
+		border: none;
+		border-collapse: unset;
+		padding: 10px 0px 5px 0px;
+		 
+		text-align: left;
+		margin-left: 0%;
+	}
+	
